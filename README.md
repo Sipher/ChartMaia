@@ -3,7 +3,7 @@ Pro maia fazer umas charts
 
 to install: 
   ```
-   sudo npm i -g .
+   sudo npm i -g charts-maia
    ```
   
 to use:
