@@ -1,0 +1,19 @@
+{
+  "name": "charts-maia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.9.0",
+    "chart.js": "^3.7.0",
+    "chartjs-node-canvas": "^4.1.6"
+  }
+}
