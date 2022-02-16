@@ -9,6 +9,9 @@ to install:
 to use:
  
   ```
-    create "array"
-    example: create "[1,2,3,4]"
+    Edit the file: nums.json
+      example: [ [1,2,3,4], [5,6,7,8] ] // It will create 2 png images with 2 graphs
+     
+    then type
+    create nums.json
    ```
